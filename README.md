@@ -12,4 +12,4 @@ there is a property file in WEB-INF for a list of registered clients, do edit th
 SampleWeb
 ---------
 
-This is a sample client web that has a AuthMaster security filer to handle all the security requests and the index.jsp page is only shown upon authorisation by auth server
+This is a sample client web that has a AuthMaster security filer to handle all the security requests and the index.jsp page is only shown upon authorisation by auth server. There is a property file in WEB-INF for auth server details and the client id, client secret to be used for communication, do edit that file for the ip address and port numbers used by tomcat
