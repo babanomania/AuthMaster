@@ -1,6 +1,6 @@
 # AuthMaster
 
-This is a POC project for a Authentication Serer implmentation, loosely based on OAuth2 where the resouce server and the client server are the same server, this has been created for POC purposes and should be treated as one, you may only use this for learning purposes and never use this on any important environment. This project consists of 2 web components hosted on a tomcat8
+This is a POC project for a Authentication Server implmentation, loosely based on OAuth2 where the resouce server and the client server are the same, this has been created for POC purposes and should be treated as one, you may only use this for learning purposes and never use this on any important environment. This project consists of 2 web components hosted on a tomcat8
 
 AuthMaster
 ----------
